@@ -1,19 +1,19 @@
 *** 배추김치 (cabbage kimchi)
 
 *재료*
-- 고추가루 4컵
-- 액젓 2컵
-- 새우젓 2/3컵
-- 마늘 1컵
-- 생강 1/4컵
-- 설탕 4Tbsp
-- 소금 2Tbsp
+- 고추가루 4 컵
+- 액젓 2 컵
+- 새우젓 2/3 컵
+- 마늘 1 컵
+- 생강 1/4 컵
+- 설탕 4 Tbsp
+- 소금 2 Tbsp
 
-- 배추 10킬로 (큰거 약 4포기)
-- 무 2개
-- 배 1/2개
-- 파 4컵
-- 미나리 1단 (optional)
+- 배추 10 킬로 (큰거 약 4포기)
+- 무 2 개
+- 배 1/2 개
+- 파 4 컵
+- 미나리 1 단 (optional)
 
 *방법*
 1. 반나절전에 배추를 절인다. 배추를 반으로 쪼개 소금물 (배추잠길물에 소금 한컵정도)에 절인다. 맛을 봐서 짭짤할때까지 절인다.
@@ -25,7 +25,7 @@
 
 -------------------------------------------
 *ingredients*
-- lots of salt (not the iodized kind!)
+- About a cup of sea salt + extra (Iodized salt can add bitterness.)
 - 4 large napa cabbage (about 2.5lbs)
 - 2 large daikons
 - 1 bunch of Japanese parsley or Chinese celery (optional)
@@ -37,13 +37,10 @@
   - salted shrimp: 2/3 cup
   - minced garlic: 1 cup
   - minced ginger: 1/4 cup
-  - sugar: 4Tbsp
+  - sugar: 4 Tbsp
 
-1. Salt the napa cabbages for several hours. Cut the cabbages in half, and
-   pour enough water to cover. Add about 1cup of salt per cabbage. If
-   you fold a leaf and it doesn't break, that's ready. If it's too
-   salty, soak in plain water until it's perfectly salty.
-2. Mix the ingredients for the stuffing.
+1. On the night before, or in the morning of kimchi day: Remove the big green leaves from the cabbages, and salt them for several hours. Cut the cabbages in half, and pour just enough water to cover. Add a cup of salt. Sprinkle some more to the thick white parts of the cabbage. If you fold the thick white part of the leaf and it doesn't break, it's ready. It takes about half a day to salt the cabbages. If you're in a hurry, you can add more salt to salt them more quickly. When you taste it, it should be deliciously salty, like potato chips. If it's too salty, soak them in plain water until it's perfectly salty. When the cabbages are ready, rinse, and drain/squeeze them well.
+2. Mix the ingredients for the stuffing. You can blend all of the ingredients together too.
 3. Cut the daikon into 2-3 inch long matchsticks.
 4. Mix the stuffing and the daikon.
 5. Rinse the salted napa cabbages and stuff them with the stuffing. If you're feeling lazy, slice the cabbages into bite-size and mix with the stuffing.
@@ -53,7 +50,8 @@
 
 -------------------------------------------
 *notes*
-- This recipe makes about a cup too much stuffing. Stuff some cucumbers with it, and you have cucumber kimchi!
+- This recipe makes about a cup too much stuffing. Stuff some cucumbers with it (no need to salt the cucumbers), and you have cucumber kimchi! Cucumber kimchi will release a lot of water, so put it in a container with extra space.
 - Instead of sugar, I like to use one additional fruit.
 - Instead of pear, apple works too.
 - Instead of adding salt water at the end, you can add some cooled kelp broth for extra umami.
+- For making vegan kimchi, you can replace fish sauce and salted shrimp with watered down soy sauce.
