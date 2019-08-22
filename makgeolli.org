@@ -1,4 +1,4 @@
-*** 막걸리 (Makgeolli) ***
+*** 막걸리 (Makgeolli)
 
 This is the recipe I used for making makgeolli. It's a combination of
 a few different recipes I found in Korean blogs.
@@ -15,6 +15,8 @@ boil it, pour boiling water into/over it, and leave it for a couple
 minutes. In the early stage of fermentaiton, it's especially important
 to not introduce other microorganisms. I rinsed the fermentation
 vessels and my hands with vodka as the last step of sanitation, too.
+
+*steps*
 
 1. Wash the rice. You want to be gentle so that the grains
    don't break, but the rinsed water should be clear. In Korean, this
