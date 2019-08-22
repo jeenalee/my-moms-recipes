@@ -1,0 +1,80 @@
+*** 막걸리 (Makgeolli) ***
+
+This is the recipe I used for making makgeolli. It's a combination of
+a few different recipes I found in Korean blogs.
+
+*ingredients*
+- 500 ml water
+- 150g nuruk 누룩
+- 1kg of rice (ideally, sweet rice)
+- 1/2 ts yeast (optional)
+
+IMPORTANT: Boil anything that will touch the fermentation (except your
+hands) including the spoons, jars, dishes, and cloth. If you can't
+boil it, pour boiling water into/over it, and leave it for a couple
+minutes. In the early stage of fermentaiton, it's especially important
+to not introduce other microorganisms. I rinsed the fermentation
+vessels and my hands with vodka as the last step of sanitation, too.
+
+1. Wash the rice. You want to be gentle so that the grains
+   don't break, but the rinsed water should be clear. In Korean, this
+   step is called baeksae (백세), which literally means one hundred
+   washes.
+2. Drain it well. I left it draining over night in the fridge.
+3. Prepare sugok (수곡). Combine the water and nuruk, and leave it for
+   3-5 hours. I did three, but perhaps should've done 5. Collect just
+   the liquid and put it aside.
+4. Steam the rice. You want to cook it with as little water as
+   possible, so steaming is the easiest way to do this. Wrap the rice
+   in a wet thin cloth, and plop it in the steamer. Make sure the rice
+   on the top is covered with the cloth. Steam for 40 minutes, and
+   turn off the heat and leave it for 20 minutes, or until the rice is
+   cooked. It should be soft enough that it easily spreads between
+   fingers when crushed, but not mushy.
+5. When the rice is cool to touch, mix the sugok with the
+   rice. Massage the mixture for 20-30 minutes. The goal is to
+   separate each rice grain and add some air to the rice mix. Do not
+   crush the rice.
+6. Put it into the fermentation vessel. I split the mix into two, a 3
+   gallon glass jar and a large pot, but I think I could've used just
+   the jar.
+7. Cover it with a thin cloth, or even a paper towel, and secure it
+   with a rubber band or a string. We want it to be breathable, but
+   keep the bugs out.
+8. Leave it in a warm place. Ideally, it should be between 25-30
+   degrees celsius. Wrap the fermentation jar with blankets or
+   electric blankets, if needed.
+9. Stir 2-3 times a day. You should see and hear bubbles starting on day 1.
+     - Day 1: you'll see some liquid. The rice will mostly retain its
+       shape. It will smell sweet.
+     - Day 2: you'll see more liquid. The rice will somewhat retain
+       its shape. It will smell sweet and a little tart.
+     - Day 3-4: it will look like a porridge. It will be difficult
+       to. It will smell similar as the day before, but also smell
+       like alcohol.  differentiate the rice from the liquid.
+10. Around the 5th day, filter the fermentation with a cheese
+    cloth. You'll want to squeeze it with hands well to get all the
+    liquid out. Collect the rice mix, and mix it with some
+    water. Filter that one more time. You'll collect about 1.7 liters
+    of makgeolli from 1kg of rice. Leave some headroom in the bottles,
+    as they will continue to ferment in the fridge.
+11. Store it in the fridge. Drink within 2 weeks. It will get more
+    sour and less sweet as time goes on.
+
+-------------------------------------------
+*notes*
+- Nuruk can be found in Korean grocery stores, but not always. Amazon
+  seems to be a reliable option. Nuruk is similar to koji but
+  different in a few ways. Koji only contains _Aspergillus oryzae_,
+  but nuruk will also have a few other cultures, like _Rhizopus
+  oryzae_, Lactobacilli, and different yeast species. Nuruk is also
+  often made with wheat, unlike koji which is only made with
+  rice. Nuruk might be more similar to Chinese fermentaiton starters
+  (chu) than koji.
+- Yeast converts the sugar into alcohol, while the various bacteria in
+  the culture breaks down the rice starch to sugar. If you add yeast,
+  it will taste a lot less sweet and more alcoholic. My guess is that
+  the additional yeast grows much faster than the bacteria that break
+  down the rice starch..? I preferred the batch without yeast, as it
+  tasted sweeter and milder with more subtle flavors.
+- Fruit flies love the smell! Make sure to cover it well at all times.
