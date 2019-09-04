@@ -2,7 +2,6 @@
 
 *재료*
 - 고사리
-- 마늘
 - 식용유
 - 마늘
 - 파
@@ -16,3 +15,33 @@
 3. 고사리를 적당히 잘라 식용유에 볶는다.
 4. 볶다가 간장 다진마늘, 파를 넣는다.
 5. 막판에 참기름과 깨소금을 넣는다.
+
+----------------------------------------
+
+*ingredients*
+- handful of dried gosari
+- cooking oil (canola or vegetable; high smoke point)
+- lots of chopped garlic
+- chopped green onion
+- sesame oil
+- sesame seeds (toasted preferred)
+- soy sauce
+
+*steps*
+
+1. Soak the gosari over night. Change water a few times.
+2. Boil the gosari until it doesn't taste bitter and is not chewy/hard
+   anymore. It will take about 20-30 minutes.
+3. Cut the gosari to 10 cm/3 in length, and set it aside.
+4. Stir fry gosari with garlic and green onion.
+5. Once it starts smelling fragrant, add soy sauce until it tastes
+   good to you.
+6. (optional) Add some water here to braising the gosari for a bit.
+6. Drizzle sesame oil and sprinkle sesame seeds.
+
+-------------------------------------------
+*notes*
+- Gosari is toxic by default, which is the reason you want to change
+  the water while soaking a few times.
+- You don't want to fry using sesame oil, because the flavor will burn
+  off, and it has a low smoke point.
